@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\bin\Debug\net6.0\hwtask6.exe
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\bin\Debug\net6.0\hwtask6.deps.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\bin\Debug\net6.0\hwtask6.runtimeconfig.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\bin\Debug\net6.0\hwtask6.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\bin\Debug\net6.0\hwtask6.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\refint\hwtask6.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\hwtask6.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar1\hwtask6\obj\Debug\net6.0\ref\hwtask6.dll
