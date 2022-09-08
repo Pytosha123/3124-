@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\bin\Debug\net6.0\task22.exe
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\bin\Debug\net6.0\task22.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\refint\task22.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar3\task22\obj\Debug\net6.0\ref\task22.dll
