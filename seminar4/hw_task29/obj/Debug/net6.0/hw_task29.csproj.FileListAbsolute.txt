@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\bin\Debug\net6.0\hw_task29.exe
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\bin\Debug\net6.0\hw_task29.deps.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\bin\Debug\net6.0\hw_task29.runtimeconfig.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\bin\Debug\net6.0\hw_task29.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\bin\Debug\net6.0\hw_task29.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\refint\hw_task29.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\hw_task29.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar4\hw_task29\obj\Debug\net6.0\ref\hw_task29.dll
