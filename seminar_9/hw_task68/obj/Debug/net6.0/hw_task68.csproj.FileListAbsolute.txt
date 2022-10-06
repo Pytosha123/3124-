@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\bin\Debug\net6.0\hw_task68.exe
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\bin\Debug\net6.0\hw_task68.deps.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\bin\Debug\net6.0\hw_task68.runtimeconfig.json
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\bin\Debug\net6.0\hw_task68.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\bin\Debug\net6.0\hw_task68.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\refint\hw_task68.dll
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.pdb
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\hw_task68.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Seminars3124\3124-\seminar_9\hw_task68\obj\Debug\net6.0\ref\hw_task68.dll
